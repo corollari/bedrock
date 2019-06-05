@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center"><a href="http://obsidian-lang.com/" target="_blank">Bedrock</a> to <a href="https://en.wikipedia.org/wiki/Solidity" target="_blank">Solidity</a> transpiler</h4>
+<h4 align="center"><a href="http://obsidian-lang.com/" target="_blank">Obsidian</a> to <a href="https://en.wikipedia.org/wiki/Solidity" target="_blank">Solidity</a> transpiler</h4>
 
 <p align="center">
   <a href="#install">Install</a> •
